@@ -26,4 +26,4 @@
 
 ### Video
 
-![Alt text](./tst.mp4 "Optional title")
+![Video](./tst.mp4 "Optional title")
