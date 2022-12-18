@@ -18,7 +18,7 @@
 
 ### Simulando acesso em outro dispositivo
 
-![Alt text](./mobile.jpg "Optional title")
+![Alt text](./mobile.JPG "Optional title")
 
 ### Resutados
 
