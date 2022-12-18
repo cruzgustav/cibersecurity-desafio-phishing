@@ -16,6 +16,10 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
+### Simulando acesso em outro dispositivo
+
+![Alt text](./mobile.jpg "Optional title")
+
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](./result.png "Optional title")
